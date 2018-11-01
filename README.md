@@ -1,7 +1,7 @@
 This is a simple weather app built in React with creat-react-app and boostrap libraries.  It returns current weather data after entering a city and country code.
 
 **This project is based off the tutorial made by [Hamra](https://www.youtube.com/channel/UCBV-JvG9Ubkj7AU6Cxls1Tw)**
-
+**For this project I the openweathermap API.  The api key is obviously not included, you can grab your own at the openweathermap site for free with limited calls.**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
