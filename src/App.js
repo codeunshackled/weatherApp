@@ -4,7 +4,7 @@ import Title from './components/Title';
 import Form from './components/Form';
 import Weather from './components/Weather';
 
-const API_KEY = '7eca9a5a9643c9bc21347ae562c65061';
+const API_KEY = 'YOUR API KEY HERE';
 
 class App extends Component {
 
